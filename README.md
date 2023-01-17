@@ -1,2 +1,2 @@
-# Flipkart-Landing-Page-Clone
-Basic HTML &amp; CSS is used
+# Basic Flipkart Front Page Clone
+- This is a Simple Flipkart Front Page Project Using HTML &amp; CSS
